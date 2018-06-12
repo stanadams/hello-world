@@ -1,6 +1,5 @@
 # hello-world
-obligatory start-up tutorial space
+Obligatory start-up tutorial space.
+This line is also required for the tutorial.
 
-this line is also required for the tutorial
-
-and this one is for good measure
+And this one is for good measure.
